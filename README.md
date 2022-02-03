@@ -295,3 +295,4 @@ k run ng8 --image=nginx --limits=cpu=200m,memory=512Mi --requests=cpu=100m,memor
 k cp <pod-name>:etc/passwd ./pwd
 
 
+ ##Please note, keeping a bookmark of k8s official documentation resources is allowed and comes very handy. I have added a bookmark file to resources above, that can be downloaded and imported for easy reference.
